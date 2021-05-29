@@ -1,7 +1,7 @@
-# awesome-usb-software
-😎 Awesome lists about all kinds of usb software
+## Content 😎
+ 
 
-| Plugin | README |
+| Name | Download |
 | ------ | ------ |
 | Dropbox | [plugins/dropbox/README.md][PlDb] |
 | GitHub | [plugins/github/README.md][PlGh] |
