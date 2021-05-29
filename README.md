@@ -7,8 +7,7 @@
 | RogoSoft Format Tool | https://www.rogosoft.com/usb-flash-drive-format-tool.html
 | FormatUsb | https://formatusb.com/download
 | Usb Disk Storage Format | https://www.authorsoft.com/usb-disk-storage-format-tool.html
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
+| Hp Usb Format Tool | https://download.cnet.com/HP-USB-Disk-Storage-Format-Tool/3000-2094_4-10974082.html
+| Fat32Formatter | http://software.tokiwa.qcweb.jp/EN/Fat32Formatter/index.html
 
 
