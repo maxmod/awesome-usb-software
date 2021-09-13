@@ -21,6 +21,7 @@
 | Ventoy | https://www.ventoy.net/en/download.html
 | Unetbootin | https://unetbootin.github.io/
 | Universal USB Installer | https://www.pendrivelinux.com/yumi-multiboot-usb-creator/
+| WiNToBootic | https://www.filecroco.com/download-wintobootic/
 
 
 
