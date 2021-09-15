@@ -4,7 +4,7 @@
 
 | Name | Download |
 | ------ | ------ |
-| Format Usb | https://formatusb.com/download
+| Format Usb | https://www.formatusb.com/download
 | RogoSoft Format Tool | https://www.rogosoft.com/usb-flash-drive-format-tool.html
 | Usb Disk Storage Format | https://www.authorsoft.com/usb-disk-storage-format-tool.html
 | Hp Usb Format Tool | https://download.cnet.com/HP-USB-Disk-Storage-Format-Tool/3000-2094_4-10974082.html
